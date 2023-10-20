@@ -11,3 +11,6 @@ The project focuses on producing visualizations on data we collected about globa
 
 ## Comparative Weather Analysis
 In this project we perform a whole data management process, from the collection of weather forecasts and measurements from three of the most popular weather websites in Italy, to their preparation, enrichment and aggregation, aimed at producing a final database that makes it possible to assess which website had the most accurate predictions. This project was done in collaboration with William Joseph Borruso and Davide Ronchi.
+
+## ECG Neural Network - Presentation
+With this presentation we showcased project in which we built a Convolutional Neural Network (+LSTM Network) over Electrocardiogram (ECG) recordings (which we augmented), in order to classify the signals and identify which ones presented Atrial Fibrillation or other anomalies. We obtained an 85% accuracy on test set. This project was done in collaboration with Christian Persico and Enrico Mannarino.
