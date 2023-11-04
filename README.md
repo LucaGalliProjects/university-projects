@@ -14,3 +14,6 @@ In this project we perform a whole data management process, from the collection 
 
 ## ECG Neural Network - Presentation
 With this presentation we showcased project in which we built a Convolutional Neural Network (+LSTM Network) over Electrocardiogram (ECG) recordings (which we augmented), in order to classify the signals and identify which ones presented Atrial Fibrillation or other anomalies. We obtained an 85% accuracy on test set. This project was done in collaboration with Christian Persico and Enrico Mannarino.
+
+## Ecography Annotation Thesis (:it:)
+This document contains a summary of my graduation thesis in Computer Science for Digital Communication (2019-2022), about a system for ecographies annotation I realized during my internship with the EveryWare Lab (University of Milan) in collaboration with Policlinico of Milan. The purpose is to realize a reliable annotated dataset to support medical decisions, which can be also used to train an algorithm which can detect hemarthroses and therefore allow patients to use portable ecographs to scan their joints in complete autonomy. I took part in the decisional process and realized both the web app and the database. I didn't publish the full thesis on this GitHub.
